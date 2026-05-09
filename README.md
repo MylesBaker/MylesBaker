@@ -4,20 +4,19 @@
 <a href="https://github.com/search?q=owner%3AMylesBaker+topic%3Ahoudini&type=repositories"><img src="https://img.shields.io/badge/-Houdini-F26722?style=for-the-badge&logo=houdini&logoColor=F26722&labelColor=282828"></a>
 <a href="https://github.com/search?q=owner%3AMylesBaker+topic%3Amaya&type=repositories"><img src="https://img.shields.io/badge/-Maya-37A5CC?style=for-the-badge&logo=autodeskmaya&logoColor=37A5CC&labelColor=282828"></a>
 <a href="https://github.com/search?q=owner%3AMylesBaker+topic%3Anuke&type=repositories"><img src="https://img.shields.io/badge/-Nuke-FCB937?style=for-the-badge&logo=nuke&logoColor=FCB937&labelColor=282828"></a>
+<a href="https://github.com/search?q=owner%3AMylesBaker+topic%3Akatana&type=repositories"><img src="https://img.shields.io/badge/-Katana-FCB937?style=for-the-badge&logo=katana&logoColor=FCB937&labelColor=282828"></a>
 <a href="https://github.com/search?q=owner%3AMylesBaker+topic%3Anuke&type=repositories"><img src="https://img.shields.io/badge/-Python-4584B6?style=for-the-badge&logo=python&logoColor=FC4584B6937&labelColor=282828"></a>
 </div>
 
 ## About me
-* 🎥 **VFX Generalist** most proficient in **Houdini**
+* 🎥 **VFX Artist** specialised in **Look Development**
 
 * 💥 **First Class Honours degree (BA)** in 3D Animation & VFX
 
 * 📸 **Photographer** in my free time
 
 ## Currently Working On
-* Houdini: *Multi-camera instancer tool (HDA)*
-* Maya: *Goblin character rig*
-* Nuke: *Quick-comp setup script*
+* Houdini: *Quick Fur HDA* and *Lookdev templates*
 
 ## Previous Projects
 
