@@ -17,6 +17,7 @@
 
 ## Currently Working On
 * Houdini: *Quick Fur HDA* and *Lookdev templates*
+* Learning C++
 
 ## Previous Projects
 
